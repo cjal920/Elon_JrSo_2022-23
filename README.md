@@ -51,3 +51,29 @@ Moving forward, we (Elon) will discuss text/photo changes amongst ourselves and 
 
 
 Thanks!
+
+
+
+<!-- N2 -->
+
+Karyn,
+
+We have changes to the What's Next email.
+
+<!-- Replace: It was great to hear from you. We hope you understand why Elon is right for you.
+
+With: We are thrilled you want to learn more about Elon and how we are leading the way in student success. -->
+
+<!-- Replace: In the meantime, there are multiple with Here are some ways to stay connected with Elon: -->
+
+<!-- Remove: Watch Elon on FB Live. -->
+
+<!-- Thanks. -->
+
+
+	
+Dec 22 17:36
+
+Roselee Papandrea Taylor replied to this message
+Please change the link of schedule a visit to https://www.elon.edu/u/admissions/undergraduate/meet-us/
+
